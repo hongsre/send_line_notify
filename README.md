@@ -2,7 +2,15 @@
 ### line notify python script
 
 # python modules
-### requests
+## pip install
+```
+pip install requests
+```
+
+## poetry install
+```
+poetry add requests
+```
 
 # HOW to run
 ```
